@@ -25,7 +25,4 @@ Este repositorio contiene los laboratorios realizados en el curso de **Estructur
 ## Objetivo
 El objetivo de estos laboratorios es **aplicar estructuras de datos y algoritmos** a problemas prácticos, desarrollando soluciones en Java que refuercen los conceptos vistos en clase.
 
----
-
-Created by [ForcexDev](github.com/ForcexDev)
 
